@@ -40,3 +40,5 @@ texto_cotacoes.grid(column=0, row=2, padx= 10, pady=10)
 
 
 window.mainloop()
+
+#Rafáaa
